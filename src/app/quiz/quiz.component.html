@@ -1,0 +1,20 @@
+<div class="image-container">
+    <img src="{{randomFluff.fields.image}}" class="img-fluid" alt="Responsive image">
+</div>
+
+<div *ngIf="!selectedBreedOpt" class="card-container">  
+    <a *ngFor="let breedOpt of breedOptions" (click)="onSelect(breedOpt)" class="card" rel="noopener">
+      <p><img src="https://img.icons8.com/offices/20/000000/rabbit.png"/></p>   
+      <span>{{breedOpt.fields.name}}</span>    
+    </a>
+</div>
+
+<div *ngIf="selectedBreedOpt">
+  <div class="card-container">
+    <p class="card">{{selectedBreedOpt.fields.name}} is your guess!</p>
+    <p class="card">{{message}}</p>
+  </div>
+  <div>
+      <button (click)="generateQuestion()">Next question</button>
+    </div>
+</div>
