@@ -28,13 +28,13 @@ export class QuizComponent implements OnInit {
     // get random breed
     this.randomFluff = this.breeds[Math.floor(Math.random() * this.breeds.length)];
     // array of possible answers
-    let breedOptions = [];
+    let breedOptions = Array<Breed>();
     breedOptions.push(this.randomFluff);
-
+    
     // generate 3 additional random breeds
     while (breedOptions.length < 4) {
       let tempBreed = this.breeds[Math.floor(Math.random() * this.breeds.length)];
-      if (!breedOptions.some(e => e.fields.name === tempBreed.fields.name)) {
+      if (!breedOptions.some(e => e.breed_id === tempBreed.breed_id)) {
         breedOptions.push(tempBreed);
       }
     }
@@ -44,7 +44,7 @@ export class QuizComponent implements OnInit {
   
   onSelect(breed: Breed): void {
     this.selectedBreedOpt = breed;
-    if (this.selectedBreedOpt.fields.name == this.randomFluff.fields.name) {
+    if (this.selectedBreedOpt.breed_id == this.randomFluff.breed_id) {
       this.message = "You guessed right!";
     } else {
       this.message = "You guessed wrong :( It is " + this.randomFluff.fields.name;
