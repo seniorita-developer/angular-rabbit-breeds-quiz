@@ -3,8 +3,9 @@
 </div>
 
 <div *ngIf="!selectedBreedOpt" class="card-container">  
-    <a *ngFor="let breedOpt of breedOptions" (click)="onSelect(breedOpt)" class="card" rel="noopener">
-      <p><img src="https://img.icons8.com/offices/20/000000/rabbit.png"/></p>   
+    <a class="card" *ngFor="let breedOpt of breedOptions" (click)="onSelect(breedOpt)"  rel="noopener">
+      
+      <p id="icon"><img src="https://img.icons8.com/offices/20/000000/rabbit.png"/></p>   
       <span>{{breedOpt.fields.name}}</span>    
     </a>
 </div>

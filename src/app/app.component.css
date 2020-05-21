@@ -61,7 +61,6 @@
     opacity: 0.8;
   }
 
-  
   .content {
     display: flex;
     margin: 82px auto 32px;
@@ -149,6 +148,7 @@
     left: -10px;
     top: -24px;
   }
+
 
   a,
   a:visited,
