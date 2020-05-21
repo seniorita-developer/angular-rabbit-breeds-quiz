@@ -23,6 +23,7 @@ export class QuizComponent implements OnInit {
     });
   }
 
+
   generateQuestion() :void {
     this.selectedBreedOpt = undefined;
     // get random breed
@@ -39,7 +40,7 @@ export class QuizComponent implements OnInit {
       }
     }
 
-    this.breedOptions = breedOptions;
+    this.breedOptions = this.shuffleBreedOptions(breedOptions);
   }
   
   onSelect(breed: Breed): void {
@@ -49,6 +50,22 @@ export class QuizComponent implements OnInit {
     } else {
       this.message = "You guessed wrong :( It is " + this.randomFluff.fields.name;
     }
+  }
+
+  shuffleBreedOptions(array: Array<Breed>) {
+    let currentIndex = array.length, temporaryValue, randomIndex;
+    // While there remain elements to shuffle
+    while (0 !== currentIndex) {
+      // Pick a remaining element...
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex -= 1;
+      // And swap it with the current element.
+      temporaryValue = array[currentIndex];
+      array[currentIndex] = array[randomIndex];
+      array[randomIndex] = temporaryValue;
+    }
+  
+    return array;
   }
 
 }
