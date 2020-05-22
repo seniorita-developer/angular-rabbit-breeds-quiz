@@ -10,6 +10,7 @@ import { Breed } from './breed';
 export class AppComponent {
   title = 'rabbit-quiz-angular';
   breeds: Breed[] = [];
+  quizOn: Boolean = false;
   
   constructor(private httpClient: HttpClient){}
   ngOnInit(){
@@ -18,5 +19,9 @@ export class AppComponent {
       this.breeds = data;
       
     })
+  }
+
+  startQuiz() {
+    this.quizOn = true;
   }
 }

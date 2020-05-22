@@ -1,0 +1,33 @@
+* {
+    line-height: 1;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+.images-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.img {
+    margin: 40px auto;
+    max-width: 300px;
+    align-content: center;
+}
+  /* Responsive Styles */
+  @media screen and (max-width: 767px) {
+
+
+    .card:not(.highlight-card) {
+      height: 16px;
+      margin: 8px 0;
+    }
+
+    .card.highlight-card span {
+      margin-left: 72px;
+    }
+  }
+
+
+  

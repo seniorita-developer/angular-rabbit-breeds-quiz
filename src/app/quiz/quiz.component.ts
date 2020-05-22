@@ -13,6 +13,7 @@ export class QuizComponent implements OnInit {
   breedOptions: Breed[] = [];
   selectedBreedOpt: Breed;
   message: String;
+  guessed: Boolean;
 
   constructor(private breedService: BreedService) { }
 
@@ -46,9 +47,11 @@ export class QuizComponent implements OnInit {
   onSelect(breed: Breed): void {
     this.selectedBreedOpt = breed;
     if (this.selectedBreedOpt.breed_id == this.randomFluff.breed_id) {
-      this.message = "You guessed right!";
+      this.message = "You guessed right! It is " + this.randomFluff.fields.name.toUpperCase();
+      this.guessed = true;
     } else {
-      this.message = "You guessed wrong :( It is " + this.randomFluff.fields.name;
+      this.message = "You guessed wrong :( It is not " + this.selectedBreedOpt.fields.name + ". Right answer - "  +  this.randomFluff.fields.name.toUpperCase();
+      this.guessed = false;
     }
   }
 

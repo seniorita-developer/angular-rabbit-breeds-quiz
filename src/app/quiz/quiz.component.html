@@ -1,3 +1,5 @@
+  <!-- <p>Let`s start!</p> -->
+<div>
 <div class="image-container">
     <img src="{{randomFluff.fields.image}}" class="img-fluid" alt="Responsive image">
 </div>
@@ -12,10 +14,10 @@
 
 <div *ngIf="selectedBreedOpt">
   <div class="card-container">
-    <p class="card">{{selectedBreedOpt.fields.name}} is your guess!</p>
-    <p class="card">{{message}}</p>
-  </div>
-  <div>
-      <button (click)="generateQuestion()">Next question</button>
+    <p class="message" [ngClass] ="guessed ? 'guessed-right' : 'guessed-wrong'">{{message}}</p>
+  
+      <button class="nextButton" (click)="generateQuestion()">Next question</button>
     </div>
+</div>
+
 </div>
