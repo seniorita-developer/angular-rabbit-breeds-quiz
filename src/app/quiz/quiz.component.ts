@@ -14,20 +14,25 @@ export class QuizComponent implements OnInit {
   selectedBreedOpt: Breed;
   message: String;
   guessed: Boolean;
+  counter: number;
+  score: number;
 
   constructor(private breedService: BreedService) { }
 
   ngOnInit() {
     this.breedService.getBreeds().subscribe(data => {
       this.breeds = data;
+      this.counter = 0;
+      this.score = 0;
       this.generateQuestion();
+      
     });
   }
 
 
   generateQuestion() :void {
     this.selectedBreedOpt = undefined;
-    // get random breed
+    
     this.randomFluff = this.breeds[Math.floor(Math.random() * this.breeds.length)];
     // array of possible answers
     let breedOptions = Array<Breed>();
@@ -42,13 +47,16 @@ export class QuizComponent implements OnInit {
     }
 
     this.breedOptions = this.shuffleBreedOptions(breedOptions);
+    this.counter ++;
   }
+  
   
   onSelect(breed: Breed): void {
     this.selectedBreedOpt = breed;
     if (this.selectedBreedOpt.breed_id == this.randomFluff.breed_id) {
       this.message = "You guessed right! It is " + this.randomFluff.fields.name.toUpperCase();
       this.guessed = true;
+      this.score++;
     } else {
       this.message = "You guessed wrong :( It is not " + this.selectedBreedOpt.fields.name + ". Right answer - "  +  this.randomFluff.fields.name.toUpperCase();
       this.guessed = false;
