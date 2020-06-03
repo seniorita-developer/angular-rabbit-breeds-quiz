@@ -22,13 +22,13 @@
 
 <div *ngIf="selectedBreedOpt">
   <div class="card-container">
-    <p class="message" [ngClass] ="guessed ? 'guessed-right' : 'guessed-wrong'">{{message}}</p>
+    <div class="message" [ngClass] ="guessed ? 'guessed-right' : 'guessed-wrong'">{{message}}</div>
   
       <button *ngIf="counter < 5" class="nextButton" (click)="generateQuestion()">Next question</button>
     </div>
     
     <div *ngIf="counter == 5">
-      Your score is {{ score }}!
+      <div class="counter">Your score is {{ score }} of 5!</div>
       <button class="nextButton" (click)="ngOnInit()">PLAY AGAIN</button>
     </div>
 

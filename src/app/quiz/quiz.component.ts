@@ -66,7 +66,7 @@ export class QuizComponent implements OnInit {
       this.guessed = true;
       this.score++;
     } else {
-      this.message = "You guessed wrong :( It is not " + this.selectedBreedOpt.fields.name + ". Right answer - " + this.randomFluff.fields.name.toUpperCase();
+      this.message = "Oh no :( It is not " + this.selectedBreedOpt.fields.name + ". Right answer - " + this.randomFluff.fields.name.toUpperCase();
       this.guessed = false;
     }
   }
