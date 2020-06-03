@@ -16,6 +16,7 @@ export class QuizComponent implements OnInit {
   guessed: Boolean;
   counter: number;
   score: number;
+  fluffNotRepeated: Array<any>;
 
   constructor(private breedService: BreedService) { }
 
@@ -24,20 +25,27 @@ export class QuizComponent implements OnInit {
       this.breeds = data;
       this.counter = 0;
       this.score = 0;
+      this.fluffNotRepeated = [];
       this.generateQuestion();
-      
+
     });
   }
 
 
-  generateQuestion() :void {
+  generateQuestion(): void {
     this.selectedBreedOpt = undefined;
-    
-    this.randomFluff = this.breeds[Math.floor(Math.random() * this.breeds.length)];
+
+    // check if breed is not repeated
+    do {
+      var tempFluff = this.breeds[Math.floor(Math.random() * this.breeds.length)]
+    } while (this.fluffNotRepeated.some(e => e.breed_id === tempFluff.breed_id))
+
+    this.fluffNotRepeated.push(tempFluff);
+    this.randomFluff = tempFluff;
     // array of possible answers
     let breedOptions = Array<Breed>();
     breedOptions.push(this.randomFluff);
-    
+
     // generate 3 additional random breeds
     while (breedOptions.length < 4) {
       let tempBreed = this.breeds[Math.floor(Math.random() * this.breeds.length)];
@@ -47,10 +55,10 @@ export class QuizComponent implements OnInit {
     }
 
     this.breedOptions = this.shuffleBreedOptions(breedOptions);
-    this.counter ++;
+    this.counter++;
   }
-  
-  
+
+
   onSelect(breed: Breed): void {
     this.selectedBreedOpt = breed;
     if (this.selectedBreedOpt.breed_id == this.randomFluff.breed_id) {
@@ -58,7 +66,7 @@ export class QuizComponent implements OnInit {
       this.guessed = true;
       this.score++;
     } else {
-      this.message = "You guessed wrong :( It is not " + this.selectedBreedOpt.fields.name + ". Right answer - "  +  this.randomFluff.fields.name.toUpperCase();
+      this.message = "You guessed wrong :( It is not " + this.selectedBreedOpt.fields.name + ". Right answer - " + this.randomFluff.fields.name.toUpperCase();
       this.guessed = false;
     }
   }
@@ -75,7 +83,7 @@ export class QuizComponent implements OnInit {
       array[currentIndex] = array[randomIndex];
       array[randomIndex] = temporaryValue;
     }
-  
+
     return array;
   }
 
