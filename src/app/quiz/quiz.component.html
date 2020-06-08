@@ -1,9 +1,10 @@
-<div>
+<div class="quiz-container">
 <div class="image-container">
     <img src="{{randomFluff.fields.image}}" class="img-fluid" alt="Responsive image">
 </div>
 
-<div *ngIf="!selectedBreedOpt">
+<div class="options-container">
+<div *ngIf="!selectedBreedOpt; else showResult">
 <div class="card-container">  
     <a class="card" *ngFor="let breedOpt of breedOptions" (click)="onSelect(breedOpt)"  rel="noopener">
       
@@ -17,22 +18,22 @@
   Question {{ counter }} from 5
 </div>
 </div>
+</div>
 
 
-
-<div *ngIf="selectedBreedOpt">
+<ng-template #showResult>
   <div class="card-container">
     <div class="message" [ngClass] ="guessed ? 'guessed-right' : 'guessed-wrong'">{{message}}</div>
   
       <button *ngIf="counter < 5" class="nextButton" (click)="generateQuestion()">Next question</button>
     </div>
     
-    <div *ngIf="counter == 5">
+    <div *ngIf="counter == 5" class="result">
       <div class="counter">Your score is {{ score }} out of 5!</div>
-      <button class="nextButton" (click)="ngOnInit()">PLAY AGAIN</button>
+      <button class="playAgainButton" (click)="ngOnInit()">PLAY AGAIN</button>
     </div>
 
-</div>
+  </ng-template>
 
 </div>
 

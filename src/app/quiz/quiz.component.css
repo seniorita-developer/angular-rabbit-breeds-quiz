@@ -24,6 +24,9 @@
     flex: 1;
   }
 
+  .quiz-container {
+    display: flex;
+  }
   .content {
     display: flex;
     max-width: 960px;
@@ -99,9 +102,15 @@
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 16px;
+    height: 450px;
+    -webkit-flex: 2 0 0;
+    flex: 2 0 0;
   }
 
-  
+  .options-container {
+    -webkit-flex: 1 0 0;
+    flex: 1 0 0;
+  }
 
   .github-star-badge {
     color: #24292e;
@@ -119,8 +128,8 @@
 
 
   .img-fluid {
-    max-width: 70%;
-    height: auto;
+    /* max-width: 70%; */
+    max-height: 400px;
   }
 
   .message {
@@ -140,11 +149,11 @@
   }
 
   .guessed-right {
-    background-color: #0cb70c;
+    background-color: #93cf93;
   }
 
   .guessed-wrong {
-    background-color: #cc6868;
+    background-color: #dd9898;
   }
   .nextButton {
     background-color: #1976d2;
@@ -155,7 +164,31 @@
     border-color: rgb(73, 73, 212);
   }
 
+  .playAgainButton {
+    background-color: #1976d2;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-color: rgb(73, 73, 212);
+    padding: 25px;
+  }
+
   .nextButton:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 17px rgba(146, 155, 179, 0.137);
+    cursor: pointer;
+  }
+
+  .result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .playAgainButton:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 17px rgba(146, 155, 179, 0.137);
     cursor: pointer;
@@ -166,11 +199,16 @@
     align-content: center;
     justify-content: center;
     font-weight: bold;
+    margin-bottom: 20px
   }
 
   /* Responsive Styles */
   @media screen and (max-width: 767px) {
 
+
+    .quiz-container {
+      display: block;
+    }
 
     .card:not(.highlight-card) {
       max-height: 16px;
@@ -181,8 +219,15 @@
       margin-left: 72px;
     }
 
+    .image-container {
+      height: 250px;
+    }
+
+    
+
     .img-fluid {
       max-width: 100%;
+      max-height: 250px;
     }
     
     .nextButton {
@@ -195,6 +240,7 @@
       transition: all 0.2s ease-in-out;
       line-height: 24px;
       cursor: pointer;
+      margin-top: 15px;
       
     }
   }
