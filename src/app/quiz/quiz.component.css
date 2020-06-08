@@ -110,6 +110,8 @@
   .options-container {
     -webkit-flex: 1 0 0;
     flex: 1 0 0;
+    display: flex;
+    align-items: center;
   }
 
   .github-star-badge {
@@ -128,8 +130,9 @@
 
 
   .img-fluid {
-    /* max-width: 70%; */
     max-height: 400px;
+    margin: auto;
+    display: block;
   }
 
   .message {
