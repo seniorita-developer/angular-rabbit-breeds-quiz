@@ -71,7 +71,7 @@
 
   .card-container .card:not(.highlight-card):hover {
     transform: translateY(-3px);
-    box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 4px 17px rgba(135, 129, 189, 0.35);
   }
 
   .card-container .card:not(.highlight-card):hover .material-icons path {
@@ -152,11 +152,12 @@
     color: white;
     font-weight: bold;
     text-align: center;
+    border-color: rgb(73, 73, 212);
   }
 
   .nextButton:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 4px 17px rgba(146, 155, 179, 0.137);
     cursor: pointer;
   }
 

@@ -1,1 +1,1232 @@
-[{"model": "breedapi.breed", "breed_id": 1, "fields": {"name": "Alaska", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alaska_schwarz.jpg", "sizes": "7-9 lb(3.2-4.1 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 4, "fields": {"name": "American", "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/RabbitAmericanBlue.jpg", "sizes": "9-12 lb(4.1-5.4 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Blue, White", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States California "}}, {"model": "breedapi.breed", "breed_id": 6, "fields": {"name": "American Fuzzy Lop", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Conejillo_de_indias.jpg", "sizes": "3.5-4 lb(1.6-1.8 kg)", "fur_type": "Long", "ear_type": "Lop", "colors": "[All solid or broken colors/patterns]", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States "}}, {"model": "breedapi.breed", "breed_id": 7, "fields": {"name": "American Sable", "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Zoo_Praha_2011-01-16_-_4051.jpg", "sizes": "7-10 lb(3.2-4.5 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Sable", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States California "}}, {"model": "breedapi.breed", "breed_id": 15, "fields": {"name": "Argente de Champagne", "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lapin_argent%C3%A9.jpg", "sizes": "9-12 lb(4.1-5.4 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Argente de Champagne markings][e]", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 26, "fields": {"name": "Belgian Hare [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Belgische_haas_%28konijnenras%29.jpg", "sizes": "8-9 lb(3.6-4.1 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "\"Rich, deep chestnut red, well extended down the sides. Black ticking of a wavy or blotchy appearance, plentiful on body; chest and face free.\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Belgium "}}, {"model": "breedapi.breed", "breed_id": 27, "fields": {"name": "Belgian Hare [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hasenkaninchen.jpg", "sizes": "8-9.5 lb(3.6-4.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "\"Deep red 'rufous' coat with black, wavy ticking.\"", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU Belgium "}}, {"model": "breedapi.breed", "breed_id": 30, "fields": {"name": "Big Silver Marten (Silver Marten)", "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Big_Silver_Marten_rabbit_breed.jpg", "sizes": "8-12 lb(3.6-5.4 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Black, Blue, or Havana with white and/or tan markings, plus white ticking on the lower body]", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Croatia "}}, {"model": "breedapi.breed", "breed_id": 31, "fields": {"name": "Blanc de Bouscat", "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/G%C3%A9ant_blanc_du_Bouscat_femelle_2.jpg", "sizes": "11-15.5 lb(5.0-7.0 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "\"Completely snow white [...]. Guard hairs sprinkled regularly all over the coat give it a brilliant frosty look.\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 32, "fields": {"name": "Blanc de Hotot", "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Blanc_De_Hotot.jpg", "sizes": "8-11 lb(3.6-5.0 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "White with dark rings around the eyes", "ARBA_recognised": "Yes", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 36, "fields": {"name": "Blue of Sint-Niklaas", "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BlvSN.jpg", "sizes": "5-12 lb(2.3-5.4 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Blue", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Belgium "}}, {"model": "breedapi.breed", "breed_id": 39, "fields": {"name": "Britannia Petite [US]  (Polish [UK])", "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Britannia_Petite.jpg", "sizes": "1.5-2.5 lb(0.68-1.13 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Black Otter, Blue-Eyed White, Chestnut, Red-Eyed White, Sable Marten", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 40, "fields": {"name": "British Giant", "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/British_Giant_rabbit_-_geograph.org.uk_-_163223.jpg", "sizes": "12.5-25 lb(5.7-11.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, Brown Grey, Dark Steel Grey, Opal, White", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 43, "fields": {"name": "Californian [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kr%C3%B3liki_kalifornijskie_californian_rabbits.jpg", "sizes": "7.5-9.5 lb(3.4-4.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Four varieties, all being white (with red eyes) with dark points:Normal (\"dark sepia\" points), Chocolate (\"milk chocolate\" points),Blue (\"slate blue\" points), or Lilac (\"pink shade of dove\" points)", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " United States California "}}, {"model": "breedapi.breed", "breed_id": 44, "fields": {"name": "Californian [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kr%C3%B3liki_kalifornijskie_666.jpg", "sizes": "9-10.5 lb(4.1-4.8 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "One variety, being white (with red eyes) with dark points:Standard (black points)", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States California "}}, {"model": "breedapi.breed", "breed_id": 48, "fields": {"name": "Champagne d'Argent", "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lapin_argent%C3%A9.jpg", "sizes": "9-12 lb(4.1-5.4 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Champagne d'Argent markings][i]", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 50, "fields": {"name": "Checkered Giant [US] (Giant Papillon [UK])", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/G%C3%A9ant_papillon_fran%C3%A7ais_J2.jpg", "sizes": "11-25 lb(5.0-11.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black (i.e, white with black markings), Blue (i.e., white with gray markings)", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 52, "fields": {"name": "Chinchilla [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tsukibunny.jpg", "sizes": "7 lb(3.2 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "\"To resemble real Chinchilla.\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 53, "fields": {"name": "Chinchilla Giganta [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kaninchen3.jpg", "sizes": "8.5-12 lb(3.9-5.4 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Chinchilla, but with] \"Desired top colour considerably darker grey than the Chinchilla [i.e., Chinchilla [UK]] rabbit.\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 60, "fields": {"name": "Czech Red", "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Czech_Red_Rabbit.jpg", "sizes": "4-5 lb(1.8-2.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Chestnut", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Czech Republic "}}, {"model": "breedapi.breed", "breed_id": 62, "fields": {"name": "Czech Spot", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Czech_spotted_rabbit_2.jpg", "sizes": "6-8 lb(2.7-3.6 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Agouti, Black, Blue, Isabella (Beige), Tortoise, Tri-color[7]", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Czech Republic "}}, {"model": "breedapi.breed", "breed_id": 63, "fields": {"name": "Czech White  (C\u030cesky Albin)", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Czech_Albino_Rabbit_2.jpg", "sizes": "8.8-11.0 lb(4.0-5.0 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "White", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Czech Republic "}}, {"model": "breedapi.breed", "breed_id": 64, "fields": {"name": "Dalmatian", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dalmatiner-Rex_Kaninchen.jpg", "sizes": "6-8 lb(2.7-3.6 kg)", "fur_type": "Rex Straight  Short", "ear_type": "Erect", "colors": "White with \"numerous little coloured patches\" of \"black, blue, brown, orange, or fawn\".", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 65, "fields": {"name": "Deilenaar", "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Deilenaar_ny%C3%BAl.jpg", "sizes": "5-8 lb(2.3-3.6 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Red Agouti", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Netherlands "}}, {"model": "breedapi.breed", "breed_id": 67, "fields": {"name": "Dutch [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/American_Grand_Champion_Dutch_Rabbit.jpg", "sizes": "3.5-5.5 lb(1.6-2.5 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black Dutch, Blue Dutch, Chinchilla Dutch, Chocolate Dutch, Gray Dutch, Steel Dutch, Tortoise Dutch", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 70, "fields": {"name": "Dwarf Lop (Mini Lop)", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Lop_bunny.jpg", "sizes": "4.25-5.25 lb(1.93-2.38 kg)", "fur_type": "Short", "ear_type": "Lop", "colors": "[Many]", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 72, "fields": {"name": "Enderby Island", "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Enderby_Island_Rabbit.jpg", "sizes": "3-4 lb(1.4-1.8 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "\"Silver-grey\" (with chinchillation) or \"Cream or beige\"", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " Australia "}}, {"model": "breedapi.breed", "breed_id": 73, "fields": {"name": "English Angora", "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/EnglishAngoraRabbit.jpg", "sizes": "5-8 lb(2.3-3.6 kg)", "fur_type": "Long", "ear_type": "Erect", "colors": "[Many]", "ARBA_recognised": "Yes", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 74, "fields": {"name": "English Lop", "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/English_Lop_Rabbit.jpg", "sizes": "10-11 lb(4.5-5.0 kg)", "fur_type": "Short", "ear_type": "Lop", "colors": "[Many]", "ARBA_recognised": "Yes", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 76, "fields": {"name": "Fauve de Bourgogne", "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/GVB_ram.jpg", "sizes": "7-11 lb(3.2-5.0 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Orange/Red", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 80, "fields": {"name": "Flemish Giant [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ijzergrauwe_voedster.jpg", "sizes": "11-25 lb(5.0-11.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "\"Dark steel grey, with even or wavy ticking [...] except belly & under tail which shall be white [...].\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Belgium "}}, {"model": "breedapi.breed", "breed_id": 81, "fields": {"name": "Flemish Giant [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Flemish_giant_fawn_doe.jpg", "sizes": "14-25 lb(6.4-11.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, Fawn, Light Grey, Sandy, Steel, White", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU Belgium "}}, {"model": "breedapi.breed", "breed_id": 82, "fields": {"name": "Florida White", "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Floridawhiterabbit.jpg", "sizes": "4-6 lb(1.8-2.7 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "White", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States Florida "}}, {"model": "breedapi.breed", "breed_id": 84, "fields": {"name": "Fox-Silver", "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Silverhavenslicorice.jpg", "sizes": "5.5-7 lb(2.5-3.2 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, Chocolate, Lilac", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 85, "fields": {"name": "French Angora", "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Fluffy_white_bunny_rabbit.jpg", "sizes": "7.5-10.5 lb(3.4-4.8 kg)", "fur_type": "Long", "ear_type": "Erect", "colors": "[Many]", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 86, "fields": {"name": "French Lop", "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Rabbit_-_French_Lop_breed_2.jpg", "sizes": "10 lb(4.5 kg)", "fur_type": "Short", "ear_type": "Lop", "colors": "[Many]", "ARBA_recognised": "Yes", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 89, "fields": {"name": "German Lop", "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/German_Big_Lop.jpg", "sizes": "6-8 lb(2.7-3.6 kg)", "fur_type": "Short", "ear_type": "Lop", "colors": "[Many]", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 90, "fields": {"name": "Giant Angora", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Joey_Giant_Angora_Buck-rebalanced.jpg", "sizes": "10 lb(4.5 kg)", "fur_type": "Long", "ear_type": "Erect", "colors": "Unknown", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States Massachusetts "}}, {"model": "breedapi.breed", "breed_id": 91, "fields": {"name": "Giant Chinchilla", "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kaninchen3.jpg", "sizes": "10-16 lb(4.5-7.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Chinchilla", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States Missouri "}}, {"model": "breedapi.breed", "breed_id": 94, "fields": {"name": "Giant Papillon [UK] (Checkered Giant)", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nemecky_oborovity_strakos.jpg", "sizes": "11-25 lb(5.0-11.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Colored butterfly, eye circles, cheek spots, ear base, saddle, and rump spots; all on a base of white.] \"All [BRC] recognised colours are admissible.\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 99, "fields": {"name": "Gotland", "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gotlandskanin_Vallby.jpg", "sizes": "6.6-9 lb(3.0-4.1 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Unknown", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Sweden "}}, {"model": "breedapi.breed", "breed_id": 103, "fields": {"name": "Harlequin [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Harlequin_Rabbits.jpg", "sizes": "6-8 lb(2.7-3.6 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Harlequin  (includes: Black, Blue, Brown, Lilac)Magpie  (includes: Black, Blue, Brown, Lilac)", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 104, "fields": {"name": "Harlequin [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lapin_Japonais.jpg", "sizes": "6-9 lb(2.7-4.1 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Japanese  (includes: Black, Blue, Chocolate, Lilac)Magpie  (includes: Black, Blue, Chocolate, Lilac)", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 106, "fields": {"name": "Harlequin Rex  (Japanese Rex)", "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Japaner-rex-kaninchen.jpg", "sizes": "6-8 lb(2.7-3.6 kg)", "fur_type": "Rex Straight  Short", "ear_type": "Erect", "colors": "[ Same as for Harlequin [UK] ]", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 108, "fields": {"name": "Havana (Giant Havana)", "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/OtisHavana.jpg", "sizes": "4.5-6.5 lb(2.0-2.9 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, Broken, Chocolate, Lilac", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU Netherlands "}}, {"model": "breedapi.breed", "breed_id": 109, "fields": {"name": "Himalayan  (Russian)", "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/HimalayanRabbit.jpg", "sizes": "6-8 lb(2.7-3.6 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "White with points of either black, blue, chocolate, or lilac", "ARBA_recognised": "Yes", "BRC_recognised": "Yes", "origins": " China "}}, {"model": "breedapi.breed", "breed_id": 116, "fields": {"name": "Japanese White (Jumbo Usagi)", "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Stuffed_jumbo_rabbit.jpg", "sizes": "6.6-22.0 lb(3-10 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Albino", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " Japan "}}, {"model": "breedapi.breed", "breed_id": 117, "fields": {"name": "Jersey Wooly", "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Osterhase.jpg", "sizes": "2.5-3.5 lb(1.1-1.6 kg)", "fur_type": "Long", "ear_type": "Erect", "colors": "[Many]", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States New Jersey "}}, {"model": "breedapi.breed", "breed_id": 121, "fields": {"name": "Lionhead [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rabbit_-_Lionhead_breed.jpg", "sizes": "3.0-3.7 lb(1.36-1.7 kg)", "fur_type": "Long", "ear_type": "Erect", "colors": "\"All [BRC] recognised colour[s] and pattern[s]\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Belgium "}}, {"model": "breedapi.breed", "breed_id": 125, "fields": {"name": "Marburger Feh (Giant Marburger)", "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Marburger_Feh_20061027.jpg", "sizes": "4.15-7.2 lb(1.88-3.27 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Lilac:] \"The top colour is a delicately toned light blue which appears to be covered with a brownish veil.\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 126, "fields": {"name": "Mecklenburger Piebald (Mecklenburger Schecke)", "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mecklenburger_Schecke.jpg", "sizes": "9.9-12.1 lb(4.5-5.5 kg)", "fur_type": "Medium", "ear_type": "Erect", "colors": "\"[Broken pattern: mostly solid color with neck, chest, belly, legs. Includes Agouti, Black, Blue, Red, Steel]\"", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 127, "fields": {"name": "Meissner Lop", "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Wilhelma_Widderkaninchen.jpg", "sizes": "10-12 lb(4.5-5.4 kg)", "fur_type": "Short", "ear_type": "Lop", "colors": "[Many]", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 131, "fields": {"name": "Mini Lop [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sawyerbun1.jpg", "sizes": "5-6 lb(2.3-2.7 kg)", "fur_type": "Short", "ear_type": "Lop", "colors": "[To be supplied]", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU Netherlands "}}, {"model": "breedapi.breed", "breed_id": 132, "fields": {"name": "Mini Rex (Rex [US])", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kleinrex_.jpg", "sizes": "3-4.5 lb(1.4-2.0 kg)", "fur_type": "Rex Straight  Short", "ear_type": "Erect", "colors": "Black, Blue, Castor, Chinchilla, Chocolate, Himalayan, Lilac, Lynx, Marten, Opal, Otter, Red, Sable, Sable Point, Seal, Tortoise, Red-Eyed White, Blue-Eyed White, Broken (white with any accepted color), Tri-Color (white with one of the following four pairs: Black & Orange, Lilac & Fawn, Chocolate & Orange, Blue & Fawn), Pattern", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States Texas "}}, {"model": "breedapi.breed", "breed_id": 133, "fields": {"name": "Mini Satin [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Satinkaninchen_009.jpg", "sizes": "4 lb(1.8 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, Broken, Chinchilla, Chocolate, Chocolate Agouti, Copper, Himalayan (includes Black, Blue, Chocolate, Lilac), Opal, Red, Siamese (includes Blue, Chocolate, Lilac), Silver Marten (includes Black, Blue, Chocolate, Lilac), Squirrel, Tortoise, White", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States Michigan "}}, {"model": "breedapi.breed", "breed_id": 135, "fields": {"name": "Miniature Lion Lop", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Zashion%27s_Beatrice%2C_Mini_Lion_Lop.jpg", "sizes": "3.3-3.5 lb(1.5-1.6 kg)", "fur_type": "Long", "ear_type": "Lop", "colors": "Chocolate PointAlso: \"Any [BRC] colour or pattern [...] apart from the broken pattern.\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 136, "fields": {"name": "Miniature Lop [UK/NL] (Holland Lop [US])", "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Miniature_Lop_-_UK_NL.jpg", "sizes": "3.4-3.8 lb(1.5-1.7 kg)", "fur_type": "Short", "ear_type": "Lop", "colors": "\"Any [BRC] colour or pattern [...] apart from the broken pattern.\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Netherlands "}}, {"model": "breedapi.breed", "breed_id": 138, "fields": {"name": "Miniature Rex", "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Rexdwerg_castor.jpg", "sizes": "3.75-4.5 lb(1.70-2.04 kg)", "fur_type": "Rex Straight  Short", "ear_type": "Erect", "colors": "\"As for Standard Rex.\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 141, "fields": {"name": "Netherland Dwarf", "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ro_pool_gilberte.jpg", "sizes": "1.1-2.5 lb(0.50-1.13 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Many]", "ARBA_recognised": "Yes", "BRC_recognised": "Yes", "origins": " EU Netherlands "}}, {"model": "breedapi.breed", "breed_id": 142, "fields": {"name": "New Zealand [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kaninchen1.jpg", "sizes": "9-12 lb(4.1-5.4 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, Broken, Red, White", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States California "}}, {"model": "breedapi.breed", "breed_id": 143, "fields": {"name": "New Zealand red [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rode_nieuwzeelander_Ram.jpg", "sizes": "8 lb(3.6 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "\"Bright golden red or reddish gold with sheen\"", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " United States California "}}, {"model": "breedapi.breed", "breed_id": 144, "fields": {"name": "New Zealand white [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/NewZealandWhiteRabbit.jpg", "sizes": "9-12 lb(4.1-5.4 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, White", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " United States California "}}, {"model": "breedapi.breed", "breed_id": 150, "fields": {"name": "Palomino", "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/PalBuckSide-small.jpg", "sizes": "10-11 lb(4.5-5.0 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Golden, Lynx", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States Washington "}}, {"model": "breedapi.breed", "breed_id": 153, "fields": {"name": "Plush Lop (Miniature)", "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/1%2C0_Rexzwergwidder_Blau_7_Mon..jpg", "sizes": "3.7-4.0 lb(1.7-1.8 kg)", "fur_type": "Rex Straight  Short", "ear_type": "Lop", "colors": "\"Any colour and pattern accepted by the [BRC] apart from the broken pattern.\"", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " Australia "}}, {"model": "breedapi.breed", "breed_id": 156, "fields": {"name": "Polish [UK]  (Britannia Petite [US])", "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Britannia_Petite.jpg", "sizes": "2.5 lb(1.1 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Includes >25 different colors/patterns][j]", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 157, "fields": {"name": "Polish [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rabbit_-_Polish_breed_-_White_with_Red_Eyes_-_from_Japan.jpg", "sizes": "2.5-3.5 lb(1.1-1.6 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, Blue-Eyed White, Broken, Chocolate, Red-Eyed White", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 158, "fields": {"name": "Rex [US] (Castorrex)", "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/45-rex-castor.jpg", "sizes": "6-10.5 lb(2.7-4.8 kg)", "fur_type": "Rex Straight  Short", "ear_type": "Erect", "colors": "[Over 19 stated colors/patterns][k]", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 160, "fields": {"name": "Rhinelander  (Rhinsk Schecke)", "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Rhinelander.jpg", "sizes": "9-10 lb(4.1-4.5 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "White with coloured butterfly patterns", "ARBA_recognised": "Yes", "BRC_recognised": "Yes", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 163, "fields": {"name": "Sachsengold (Saxon Gold)", "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sachsengold1.jpg", "sizes": "6.1-7.2 lb(2.75-3.25 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Chestnut", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 166, "fields": {"name": "Satin [UK]", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Satin_castor.jpg", "sizes": "6-8 lb(2.7-3.6 kg)", "fur_type": "Medium", "ear_type": "Erect", "colors": "[Includes >33 different colors/patterns][l]", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " United States Indiana "}}, {"model": "breedapi.breed", "breed_id": 167, "fields": {"name": "Satin [US]  See also:    Mini Satin [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Satijn_konijn_ivoor.jpg", "sizes": "9.5-10 lb(4.3-4.5 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, Broken, Californian, Chinchilla, Chocolate, Copper, Lilac(under development), Otter, Red, Siamese, White", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States Indiana "}}, {"model": "breedapi.breed", "breed_id": 168, "fields": {"name": "Satin Angora", "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/White_Satin_Angora_Rabbit.jpg", "sizes": "6.5-9.5 lb(2.9-4.3 kg)", "fur_type": "Long", "ear_type": "Erect", "colors": "[White or Colored]", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " Canada "}}, {"model": "breedapi.breed", "breed_id": 171, "fields": {"name": "Siamese Sable", "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Siamesenkaninchen.jpg", "sizes": "5-7 lb(2.3-3.2 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Light Siamese Sable, Medium Siamese Sable, Dark Siamese Sable", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 173, "fields": {"name": "Giant Silver", "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kaninchen2.jpg", "sizes": "5-6 lb(2.3-2.7 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Blue, Brown, Fawn, Grey", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 176, "fields": {"name": "Silver Fox [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eithel%2C_black_Silver_Fox_doe.jpg", "sizes": "9-12 lb(4.1-5.4 kg)", "fur_type": "Long", "ear_type": "Erect", "colors": "Black, Blue(under development), Chocolate(under development)", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " United States Ohio "}}, {"model": "breedapi.breed", "breed_id": 177, "fields": {"name": "Silver Marten (Big Silver Marten)", "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Marten_Rabbit.jpg", "sizes": "9.5 lb(4.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black, Blue, Chocolate, Sable", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 183, "fields": {"name": "Standard Chinchilla [US]", "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kaninchen3.jpg", "sizes": "5-7.5 lb(2.3-3.4 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Chinchilla", "ARBA_recognised": "Yes", "BRC_recognised": "No", "origins": " EU France "}}, {"model": "breedapi.breed", "breed_id": 189, "fields": {"name": "Swiss Fox", "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Voskonijn-Feh.jpg", "sizes": "5-8 lb(2.3-3.6 kg)", "fur_type": "Long", "ear_type": "Erect", "colors": "Unknown", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " Switzerland "}}, {"model": "breedapi.breed", "breed_id": 191, "fields": {"name": "Tan (Feu Noir [FR])", "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/State_fair_06_029.jpg", "sizes": "4-6 lb(1.8-2.7 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "Black & Tan, Blue & Tan, Chocolate & Tan, Lilac & Tan", "ARBA_recognised": "Yes", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 192, "fields": {"name": "Teddy Dwarf  Also called:    Teddyzwerg [DE]", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Teddyzwerg.jpg", "sizes": "1.8-3.7 lb(0.8-1.7 kg)", "fur_type": "Long", "ear_type": "Erect", "colors": "[Many]", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 193, "fields": {"name": "Teddy Lop", "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Teddywidder.jpg", "sizes": "2.9-4.4 lb(1.3-2.0 kg)", "fur_type": "Long", "ear_type": "Lop", "colors": "[Many]", "ARBA_recognised": "No", "BRC_recognised": "No", "origins": " EU Germany "}}, {"model": "breedapi.breed", "breed_id": 196, "fields": {"name": "Tri-Colour Dutch (Harlequin Dutch, Japanese Dutch)", "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/HollaenderJapanerfarbig.jpg", "sizes": "4-5 lb(1.8-2.3 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Tri-Colour Dutch markings][m]", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 197, "fields": {"name": "Tri-Colour English", "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Reinscheck_bunny.jpg", "sizes": "6-8 lb(2.7-3.6 kg)", "fur_type": "Short", "ear_type": "Erect", "colors": "[Tri-Colour English markings][n]", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU UK England "}}, {"model": "breedapi.breed", "breed_id": 201, "fields": {"name": "Vienna Coloured", "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Grauer_Wiener_03.jpg", "sizes": "7.7-11.6 lb(3.5-5.25 kg)", "fur_type": "Medium", "ear_type": "Erect", "colors": "Agouti, Black, Blue", "ARBA_recognised": "No", "BRC_recognised": "Yes", "origins": " EU Austria "}}]
+[
+	{
+		"model": "breedapi.breed",
+		"breed_id": 1,
+		"fields": {
+			"name": "Alaska",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alaska_schwarz.jpg",
+			"sizes": "7-9 lb(3.2-4.1 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 4,
+		"fields": {
+			"name": "American",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/RabbitAmericanBlue.jpg",
+			"sizes": "9-12 lb(4.1-5.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Blue, White",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States California "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 6,
+		"fields": {
+			"name": "American Fuzzy Lop",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Conejillo_de_indias.jpg",
+			"sizes": "3.5-4 lb(1.6-1.8 kg)",
+			"fur_type": "Long",
+			"ear_type": "Lop",
+			"colors": "[All solid or broken colors/patterns]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 7,
+		"fields": {
+			"name": "American Sable",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Zoo_Praha_2011-01-16_-_4051.jpg",
+			"sizes": "7-10 lb(3.2-4.5 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Sable",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States California "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 15,
+		"fields": {
+			"name": "Argente de Champagne",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lapin_argent%C3%A9.jpg",
+			"sizes": "9-12 lb(4.1-5.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "[Argente de Champagne markings][e]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 26,
+		"fields": {
+			"name": "Belgian Hare [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Belgische_haas_%28konijnenras%29.jpg",
+			"sizes": "8-9 lb(3.6-4.1 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "\"Rich, deep chestnut red, well extended down the sides. Black ticking of a wavy or blotchy appearance, plentiful on body; chest and face free.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Belgium "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 27,
+		"fields": {
+			"name": "Belgian Hare [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hasenkaninchen.jpg",
+			"sizes": "8-9.5 lb(3.6-4.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "\"Deep red 'rufous' coat with black, wavy ticking.\"",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU Belgium "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 30,
+		"fields": {
+			"name": "Big Silver Marten",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Big_Silver_Marten_rabbit_breed.jpg",
+			"sizes": "8-12 lb(3.6-5.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "[Black, Blue, or Havana with white and/or tan markings, plus white ticking on the lower body]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Croatia "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 31,
+		"fields": {
+			"name": "Blanc de Bouscat",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/68/G%C3%A9ant_blanc_du_Bouscat_femelle_2.jpg",
+			"sizes": "11-15.5 lb(5.0-7.0 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "\"Completely snow white [...]. Guard hairs sprinkled regularly all over the coat give it a brilliant frosty look.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 32,
+		"fields": {
+			"name": "Blanc de Hotot",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Blanc_De_Hotot.jpg",
+			"sizes": "8-11 lb(3.6-5.0 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "White with dark rings around the eyes",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 36,
+		"fields": {
+			"name": "Blue of Sint-Niklaas",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BlvSN.jpg",
+			"sizes": "5-12 lb(2.3-5.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Blue",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Belgium "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 39,
+		"fields": {
+			"name": "Britannia Petite [US]  (Polish [UK])",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Britannia_Petite.jpg",
+			"sizes": "1.5-2.5 lb(0.68-1.13 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Black Otter, Blue-Eyed White, Chestnut, Red-Eyed White, Sable Marten",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 40,
+		"fields": {
+			"name": "British Giant",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/73/British_Giant_rabbit_-_geograph.org.uk_-_163223.jpg",
+			"sizes": "12.5-25 lb(5.7-11.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Brown Grey, Dark Steel Grey, Opal, White",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 43,
+		"fields": {
+			"name": "Californian [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kr%C3%B3liki_kalifornijskie_californian_rabbits.jpg",
+			"sizes": "7.5-9.5 lb(3.4-4.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Four varieties, all being white (with red eyes) with dark points:Normal (\"dark sepia\" points), Chocolate (\"milk chocolate\" points),Blue (\"slate blue\" points), or Lilac (\"pink shade of dove\" points)",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " United States California "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 44,
+		"fields": {
+			"name": "Californian [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kr%C3%B3liki_kalifornijskie_666.jpg",
+			"sizes": "9-10.5 lb(4.1-4.8 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "One variety, being white (with red eyes) with dark points:Standard (black points)",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States California "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 48,
+		"fields": {
+			"name": "Champagne d'Argent",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lapin_argent%C3%A9.jpg",
+			"sizes": "9-12 lb(4.1-5.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "[Champagne d'Argent markings][i]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 50,
+		"fields": {
+			"name": "Checkered Giant [US] (Giant Papillon [UK])",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/G%C3%A9ant_papillon_fran%C3%A7ais_J2.jpg",
+			"sizes": "11-25 lb(5.0-11.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black (i.e, white with black markings), Blue (i.e., white with gray markings)",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 52,
+		"fields": {
+			"name": "Chinchilla [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tsukibunny.jpg",
+			"sizes": "7 lb(3.2 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "\"To resemble real Chinchilla.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 53,
+		"fields": {
+			"name": "Chinchilla Giganta [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kaninchen3.jpg",
+			"sizes": "8.5-12 lb(3.9-5.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "[Chinchilla, but with] \"Desired top colour considerably darker grey than the Chinchilla [i.e., Chinchilla [UK]] rabbit.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 60,
+		"fields": {
+			"name": "Czech Red",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Czech_Red_Rabbit.jpg",
+			"sizes": "4-5 lb(1.8-2.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Chestnut",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Czech Republic "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 62,
+		"fields": {
+			"name": "Czech Spot",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Czech_spotted_rabbit_2.jpg",
+			"sizes": "6-8 lb(2.7-3.6 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Agouti, Black, Blue, Isabella (Beige), Tortoise, Tri-color[7]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Czech Republic "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 63,
+		"fields": {
+			"name": "Czech White  (Česky Albin)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Czech_Albino_Rabbit_2.jpg",
+			"sizes": "8.8-11.0 lb(4.0-5.0 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "White",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Czech Republic "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 64,
+		"fields": {
+			"name": "Dalmatian",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dalmatiner-Rex_Kaninchen.jpg",
+			"sizes": "6-8 lb(2.7-3.6 kg)",
+			"fur_type": "Rex Straight  Short",
+			"ear_type": "Erect",
+			"colors": "White with \"numerous little coloured patches\" of \"black, blue, brown, orange, or fawn\".",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 65,
+		"fields": {
+			"name": "Deilenaar",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Deilenaar_ny%C3%BAl.jpg",
+			"sizes": "5-8 lb(2.3-3.6 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Red Agouti",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Netherlands "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 67,
+		"fields": {
+			"name": "Dutch [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/48/American_Grand_Champion_Dutch_Rabbit.jpg",
+			"sizes": "3.5-5.5 lb(1.6-2.5 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black Dutch, Blue Dutch, Chinchilla Dutch, Chocolate Dutch, Gray Dutch, Steel Dutch, Tortoise Dutch",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 70,
+		"fields": {
+			"name": "Dwarf Lop (Mini Lop)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Lop_bunny.jpg",
+			"sizes": "4.25-5.25 lb(1.93-2.38 kg)",
+			"fur_type": "Short",
+			"ear_type": "Lop",
+			"colors": "[Many]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 72,
+		"fields": {
+			"name": "Enderby Island",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Enderby_Island_Rabbit.jpg",
+			"sizes": "3-4 lb(1.4-1.8 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "\"Silver-grey\" (with chinchillation) or \"Cream or beige\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " Australia "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 73,
+		"fields": {
+			"name": "English Angora",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/EnglishAngoraRabbit.jpg",
+			"sizes": "5-8 lb(2.3-3.6 kg)",
+			"fur_type": "Long",
+			"ear_type": "Erect",
+			"colors": "[Many]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 74,
+		"fields": {
+			"name": "English Lop",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/English_Lop_Rabbit.jpg",
+			"sizes": "10-11 lb(4.5-5.0 kg)",
+			"fur_type": "Short",
+			"ear_type": "Lop",
+			"colors": "[Many]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "Yes",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 76,
+		"fields": {
+			"name": "Fauve de Bourgogne",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/GVB_ram.jpg",
+			"sizes": "7-11 lb(3.2-5.0 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Orange/Red",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 80,
+		"fields": {
+			"name": "Flemish Giant [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ijzergrauwe_voedster.jpg",
+			"sizes": "11-25 lb(5.0-11.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "\"Dark steel grey, with even or wavy ticking [...] except belly & under tail which shall be white [...].\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Belgium "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 81,
+		"fields": {
+			"name": "Flemish Giant [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Flemish_giant_fawn_doe.jpg",
+			"sizes": "14-25 lb(6.4-11.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Fawn, Light Grey, Sandy, Steel, White",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU Belgium "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 82,
+		"fields": {
+			"name": "Florida White",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Floridawhiterabbit.jpg",
+			"sizes": "4-6 lb(1.8-2.7 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "White",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States Florida "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 84,
+		"fields": {
+			"name": "Fox-Silver",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Silverhavenslicorice.jpg",
+			"sizes": "5.5-7 lb(2.5-3.2 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Chocolate, Lilac",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 85,
+		"fields": {
+			"name": "French Angora",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Fluffy_white_bunny_rabbit.jpg",
+			"sizes": "7.5-10.5 lb(3.4-4.8 kg)",
+			"fur_type": "Long",
+			"ear_type": "Erect",
+			"colors": "[Many]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 86,
+		"fields": {
+			"name": "French Lop",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Rabbit_-_French_Lop_breed_2.jpg",
+			"sizes": "10 lb(4.5 kg)",
+			"fur_type": "Short",
+			"ear_type": "Lop",
+			"colors": "[Many]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 89,
+		"fields": {
+			"name": "German Lop",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/73/German_Big_Lop.jpg",
+			"sizes": "6-8 lb(2.7-3.6 kg)",
+			"fur_type": "Short",
+			"ear_type": "Lop",
+			"colors": "[Many]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 90,
+		"fields": {
+			"name": "Giant Angora",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Joey_Giant_Angora_Buck-rebalanced.jpg",
+			"sizes": "10 lb(4.5 kg)",
+			"fur_type": "Long",
+			"ear_type": "Erect",
+			"colors": "Unknown",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States Massachusetts "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 91,
+		"fields": {
+			"name": "Giant Chinchilla",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kaninchen3.jpg",
+			"sizes": "10-16 lb(4.5-7.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Chinchilla",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States Missouri "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 94,
+		"fields": {
+			"name": "Giant Papillon [UK] (Checkered Giant)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nemecky_oborovity_strakos.jpg",
+			"sizes": "11-25 lb(5.0-11.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "[Colored butterfly, eye circles, cheek spots, ear base, saddle, and rump spots; all on a base of white.] \"All [BRC] recognised colours are admissible.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 99,
+		"fields": {
+			"name": "Gotland",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gotlandskanin_Vallby.jpg",
+			"sizes": "6.6-9 lb(3.0-4.1 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Unknown",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Sweden "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 103,
+		"fields": {
+			"name": "Harlequin [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Harlequin_Rabbits.jpg",
+			"sizes": "6-8 lb(2.7-3.6 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Harlequin  (includes: Black, Blue, Brown, Lilac)Magpie  (includes: Black, Blue, Brown, Lilac)",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 104,
+		"fields": {
+			"name": "Harlequin [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lapin_Japonais.jpg",
+			"sizes": "6-9 lb(2.7-4.1 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Japanese  (includes: Black, Blue, Chocolate, Lilac)Magpie  (includes: Black, Blue, Chocolate, Lilac)",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 106,
+		"fields": {
+			"name": "Harlequin Rex  (Japanese Rex)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Japaner-rex-kaninchen.jpg",
+			"sizes": "6-8 lb(2.7-3.6 kg)",
+			"fur_type": "Rex Straight  Short",
+			"ear_type": "Erect",
+			"colors": "[ Same as for Harlequin [UK] ]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 108,
+		"fields": {
+			"name": "Havana (Giant Havana)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/99/OtisHavana.jpg",
+			"sizes": "4.5-6.5 lb(2.0-2.9 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Broken, Chocolate, Lilac",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU Netherlands "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 109,
+		"fields": {
+			"name": "Himalayan  (Russian)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Winninghimalayan.JPG",
+			"sizes": "6-8 lb(2.7-3.6 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "White with points of either black, blue, chocolate, or lilac",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "Yes",
+			"origins": " China "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 117,
+		"fields": {
+			"name": "Jersey Wooly",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Osterhase.jpg",
+			"sizes": "2.5-3.5 lb(1.1-1.6 kg)",
+			"fur_type": "Long",
+			"ear_type": "Erect",
+			"colors": "[Many]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States New Jersey "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 121,
+		"fields": {
+			"name": "Lionhead [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rabbit_-_Lionhead_breed.jpg",
+			"sizes": "3.0-3.7 lb(1.36-1.7 kg)",
+			"fur_type": "Long",
+			"ear_type": "Erect",
+			"colors": "\"All [BRC] recognised colour[s] and pattern[s]\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Belgium "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 125,
+		"fields": {
+			"name": "Marburger Feh (Giant Marburger)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Marburger_Feh_20061027.jpg",
+			"sizes": "4.15-7.2 lb(1.88-3.27 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "[Lilac:] \"The top colour is a delicately toned light blue which appears to be covered with a brownish veil.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 126,
+		"fields": {
+			"name": "Mecklenburger Piebald (Mecklenburger Schecke)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mecklenburger_Schecke.jpg",
+			"sizes": "9.9-12.1 lb(4.5-5.5 kg)",
+			"fur_type": "Medium",
+			"ear_type": "Erect",
+			"colors": "\"[Broken pattern: mostly solid color with neck, chest, belly, legs. Includes Agouti, Black, Blue, Red, Steel]\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 127,
+		"fields": {
+			"name": "Meissner Lop",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Wilhelma_Widderkaninchen.jpg",
+			"sizes": "10-12 lb(4.5-5.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Lop",
+			"colors": "[Many]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 131,
+		"fields": {
+			"name": "Mini Lop [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sawyerbun1.jpg",
+			"sizes": "5-6 lb(2.3-2.7 kg)",
+			"fur_type": "Short",
+			"ear_type": "Lop",
+			"colors": "[To be supplied]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU Netherlands "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 132,
+		"fields": {
+			"name": "Mini Rex (Rex [US])",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kleinrex_.jpg",
+			"sizes": "3-4.5 lb(1.4-2.0 kg)",
+			"fur_type": "Rex Straight  Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Castor, Chinchilla, Chocolate, Himalayan, Lilac, Lynx, Marten, Opal, Otter, Red, Sable, Sable Point, Seal, Tortoise, Red-Eyed White, Blue-Eyed White, Broken (white with any accepted color), Tri-Color (white with one of the following four pairs: Black & Orange, Lilac & Fawn, Chocolate & Orange, Blue & Fawn), Pattern",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States Texas "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 133,
+		"fields": {
+			"name": "Mini Satin [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Satinkaninchen_009.jpg",
+			"sizes": "4 lb(1.8 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Broken, Chinchilla, Chocolate, Chocolate Agouti, Copper, Himalayan (includes Black, Blue, Chocolate, Lilac), Opal, Red, Siamese (includes Blue, Chocolate, Lilac), Silver Marten (includes Black, Blue, Chocolate, Lilac), Squirrel, Tortoise, White",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States Michigan "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 135,
+		"fields": {
+			"name": "Miniature Lion Lop",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Zashion%27s_Beatrice%2C_Mini_Lion_Lop.jpg",
+			"sizes": "3.3-3.5 lb(1.5-1.6 kg)",
+			"fur_type": "Long",
+			"ear_type": "Lop",
+			"colors": "Any colour or pattern [...] apart from the broken pattern.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 136,
+		"fields": {
+			"name": "Miniature Lop [UK/NL] (Holland Lop [US])",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Miniature_Lop_-_UK_NL.jpg",
+			"sizes": "3.4-3.8 lb(1.5-1.7 kg)",
+			"fur_type": "Short",
+			"ear_type": "Lop",
+			"colors": "\"Any [BRC] colour or pattern [...] apart from the broken pattern.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Netherlands "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 138,
+		"fields": {
+			"name": "Miniature Rex",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Rexdwerg_castor.jpg",
+			"sizes": "3.75-4.5 lb(1.70-2.04 kg)",
+			"fur_type": "Rex Straight  Short",
+			"ear_type": "Erect",
+			"colors": "\"As for Standard Rex.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 141,
+		"fields": {
+			"name": "Netherland Dwarf",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ro_pool_gilberte.jpg",
+			"sizes": "1.1-2.5 lb(0.50-1.13 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "[Many]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "Yes",
+			"origins": " EU Netherlands "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 142,
+		"fields": {
+			"name": "New Zealand [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kaninchen1.jpg",
+			"sizes": "9-12 lb(4.1-5.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Broken, Red, White",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States California "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 143,
+		"fields": {
+			"name": "New Zealand red [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rode_nieuwzeelander_Ram.jpg",
+			"sizes": "8 lb(3.6 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "\"Bright golden red or reddish gold with sheen\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " United States California "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 144,
+		"fields": {
+			"name": "New Zealand white [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/2/24/NewZealandWhiteRabbit.jpg",
+			"sizes": "9-12 lb(4.1-5.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, White",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " United States California "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 150,
+		"fields": {
+			"name": "Palomino",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/PalBuckSide-small.jpg",
+			"sizes": "10-11 lb(4.5-5.0 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Golden, Lynx",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States Washington "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 153,
+		"fields": {
+			"name": "Plush Lop (Miniature)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/1%2C0_Rexzwergwidder_Blau_7_Mon..jpg",
+			"sizes": "3.7-4.0 lb(1.7-1.8 kg)",
+			"fur_type": "Rex Straight  Short",
+			"ear_type": "Lop",
+			"colors": "\"Any colour and pattern accepted by the [BRC] apart from the broken pattern.\"",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " Australia "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 157,
+		"fields": {
+			"name": "Polish [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rabbit_-_Polish_breed_-_White_with_Red_Eyes_-_from_Japan.jpg",
+			"sizes": "2.5-3.5 lb(1.1-1.6 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Blue-Eyed White, Broken, Chocolate, Red-Eyed White",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 158,
+		"fields": {
+			"name": "Rex [US] (Castorrex)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/42/45-rex-castor.jpg",
+			"sizes": "6-10.5 lb(2.7-4.8 kg)",
+			"fur_type": "Rex Straight  Short",
+			"ear_type": "Erect",
+			"colors": "[Over 19 stated colors/patterns][k]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 160,
+		"fields": {
+			"name": "Rhinelander  (Rhinsk Schecke)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Rhinelander.jpg",
+			"sizes": "9-10 lb(4.1-4.5 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "White with coloured butterfly patterns",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "Yes",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 163,
+		"fields": {
+			"name": "Sachsengold (Saxon Gold)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sachsengold1.jpg",
+			"sizes": "6.1-7.2 lb(2.75-3.25 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Chestnut",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 166,
+		"fields": {
+			"name": "Satin [UK]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Satin_castor.jpg",
+			"sizes": "6-8 lb(2.7-3.6 kg)",
+			"fur_type": "Medium",
+			"ear_type": "Erect",
+			"colors": "[Includes >33 different colors/patterns][l]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " United States Indiana "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 167,
+		"fields": {
+			"name": "Satin [US] ",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Satijn_konijn_ivoor.jpg",
+			"sizes": "9.5-10 lb(4.3-4.5 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Broken, Californian, Chinchilla, Chocolate, Copper, Lilac(under development), Otter, Red, Siamese, White",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States Indiana "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 168,
+		"fields": {
+			"name": "Satin Angora",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/5/50/White_Satin_Angora_Rabbit.jpg",
+			"sizes": "6.5-9.5 lb(2.9-4.3 kg)",
+			"fur_type": "Long",
+			"ear_type": "Erect",
+			"colors": "[White or Colored]",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " Canada "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 171,
+		"fields": {
+			"name": "Siamese Sable",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Siamesenkaninchen.jpg",
+			"sizes": "5-7 lb(2.3-3.2 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Light Siamese Sable, Medium Siamese Sable, Dark Siamese Sable",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 173,
+		"fields": {
+			"name": "Giant Silver",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kaninchen2.jpg",
+			"sizes": "5-6 lb(2.3-2.7 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Blue, Brown, Fawn, Grey",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 176,
+		"fields": {
+			"name": "Silver Fox [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eithel%2C_black_Silver_Fox_doe.jpg",
+			"sizes": "9-12 lb(4.1-5.4 kg)",
+			"fur_type": "Long",
+			"ear_type": "Erect",
+			"colors": "Black, Blue(under development), Chocolate(under development)",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " United States Ohio "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 177,
+		"fields": {
+			"name": "Silver Marten",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Marten_Rabbit.jpg",
+			"sizes": "9.5 lb(4.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black, Blue, Chocolate, Sable",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 183,
+		"fields": {
+			"name": "Standard Chinchilla [US]",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kaninchen3.jpg",
+			"sizes": "5-7.5 lb(2.3-3.4 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Chinchilla",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "No",
+			"origins": " EU France "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 189,
+		"fields": {
+			"name": "Swiss Fox",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Voskonijn-Feh.jpg",
+			"sizes": "5-8 lb(2.3-3.6 kg)",
+			"fur_type": "Long",
+			"ear_type": "Erect",
+			"colors": "Unknown",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " Switzerland "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 191,
+		"fields": {
+			"name": "Tan (Feu Noir [FR])",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/73/State_fair_06_029.jpg",
+			"sizes": "4-6 lb(1.8-2.7 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "Black & Tan, Blue & Tan, Chocolate & Tan, Lilac & Tan",
+			"ARBA_recognised": "Yes",
+			"BRC_recognised": "Yes",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 192,
+		"fields": {
+			"name": "Teddy Dwarf",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Teddyzwerg.jpg",
+			"sizes": "1.8-3.7 lb(0.8-1.7 kg)",
+			"fur_type": "Long",
+			"ear_type": "Erect",
+			"colors": "[Many]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 193,
+		"fields": {
+			"name": "Teddy Lop",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Teddywidder.jpg",
+			"sizes": "2.9-4.4 lb(1.3-2.0 kg)",
+			"fur_type": "Long",
+			"ear_type": "Lop",
+			"colors": "[Many]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "No",
+			"origins": " EU Germany "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 196,
+		"fields": {
+			"name": "Tri-Colour Dutch (Harlequin Dutch, Japanese Dutch)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/de/HollaenderJapanerfarbig.jpg",
+			"sizes": "4-5 lb(1.8-2.3 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "[Tri-Colour Dutch markings][m]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 197,
+		"fields": {
+			"name": "Tri-Colour English",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Reinscheck_bunny.jpg",
+			"sizes": "6-8 lb(2.7-3.6 kg)",
+			"fur_type": "Short",
+			"ear_type": "Erect",
+			"colors": "[Tri-Colour English markings][n]",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU UK England "
+		}
+	},
+	{
+		"model": "breedapi.breed",
+		"breed_id": 201,
+		"fields": {
+			"name": "Vienna Coloured",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Grauer_Wiener_03.jpg",
+			"sizes": "7.7-11.6 lb(3.5-5.25 kg)",
+			"fur_type": "Medium",
+			"ear_type": "Erect",
+			"colors": "Agouti, Black, Blue",
+			"ARBA_recognised": "No",
+			"BRC_recognised": "Yes",
+			"origins": " EU Austria "
+		}
+	}
+]

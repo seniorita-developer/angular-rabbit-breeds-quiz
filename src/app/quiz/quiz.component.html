@@ -28,10 +28,18 @@
     </div>
     
     <div *ngIf="counter == 5">
-      <div class="counter">Your score is {{ score }} of 5!</div>
+      <div class="counter">Your score is {{ score }} out of 5!</div>
       <button class="nextButton" (click)="ngOnInit()">PLAY AGAIN</button>
     </div>
 
 </div>
 
 </div>
+
+
+
+<!-- <div  *ngFor="let breed of breeds"  rel="noopener">
+      
+  <img src="{{breed.fields.image}}" class="img-fluid" alt="Responsive image"/> 
+  <p>{{breed.fields.name}}</p>    
+</div> -->
