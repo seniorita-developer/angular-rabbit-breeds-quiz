@@ -26,7 +26,7 @@
 
 <!-- Template for showing the result -->
 <ng-template #showResult>
-  <div style="flex-direction: column;">
+  <div style="flex-direction: column; ">
   <div class="card-container">
     <div class="message" [ngClass] ="guessed ? 'guessed-right' : 'guessed-wrong'">{{message}}</div>
   
@@ -35,6 +35,7 @@
     
     <div *ngIf="counter == 5" class="result">
       <div class="counter">Your score is {{ score }} out of 5!</div>
+      <div *ngIf="score > 3"class="counter">GREAT JOB!</div>
       <button class="playAgainButton" (click)="ngOnInit()">PLAY AGAIN</button>
     </div>
   </div>
