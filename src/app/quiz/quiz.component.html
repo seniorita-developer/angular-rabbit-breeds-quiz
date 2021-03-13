@@ -1,6 +1,6 @@
 <div class="quiz-container">
 <div class="image-container">
-    <img src="{{randomFluff.fields.image}}" class="img-fluid" alt="Responsive image">
+    <img src="{{randomFluff.image}}" class="img-fluid" alt="Bunny image">
 </div>
 
 <!-- Container for showing options and result -->
@@ -8,11 +8,11 @@
 
 <!-- options and counter -->
 <div *ngIf="!selectedBreedOpt; else showResult">
-<div class="card-container">  
+<div class="card-container"> 
     <a class="card" *ngFor="let breedOpt of breedOptions" (click)="onSelect(breedOpt)"  rel="noopener">
       
       <p id="icon"><img src="https://img.icons8.com/offices/20/000000/rabbit.png"/></p>   
-      <span>{{breedOpt.fields.name}}</span>    
+      <span>{{breedOpt.name}}</span>    
     </a>
     
 </div>
@@ -46,7 +46,7 @@
 
 
 <!-- <div  *ngFor="let breed of breeds"  rel="noopener">
-      
-  <img src="{{breed.fields.image}}" class="img-fluid" alt="Responsive image"/> 
-  <p>{{breed.fields.name}}</p>    
+      <p>{{breed.name}}</p>
+      <p>{{breed.breed_id}}</p>
+  <img src="{{breed.image}}" class="img-fluid" alt="Responsive image"/>   
 </div> -->

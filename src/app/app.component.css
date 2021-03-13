@@ -7,23 +7,8 @@
     -moz-osx-font-smoothing: grayscale;
   }
 
-  a,
-  a:visited,
-  a:hover {
-    color: #1976d2;
-    text-decoration: none;
-  }
-
-  a:hover {
-    color: #125699;
-  }
   
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h1, h2, h3, h4, h5, h6 {
     margin: 8px 0;
   }
 
@@ -82,6 +67,22 @@
     fill: #888;
   }
 
+  .svg-icon {
+    width: 1em;
+    height: 1em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+  
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
+
   .card-container {
     display: flex;
     flex-wrap: wrap;
@@ -103,11 +104,6 @@
     align-items: center;
     transition: all 0.2s ease-in-out;
     line-height: 24px;
-  }
-
-   .card.card-small {
-    height: 16px;
-    width: 168px;
   }
 
   .card-container .card:not(.highlight-card) {

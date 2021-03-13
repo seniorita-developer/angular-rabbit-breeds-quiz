@@ -149,6 +149,15 @@
     text-align: center;
     border-color: rgb(73, 73, 212);
   }
+  
+  .nextButton:hover {
+    box-shadow: 0 4px 10px rgba(18, 41, 104, 0.6);
+    transform: scale(1.03, 1.03);
+  }
+
+  .nextButton:hover::after {
+    opacity: 1;
+  }
 
   @keyframes pulse {
     0% {
@@ -217,14 +226,14 @@
       display: block;
     }
 
-    .card:not(.highlight-card) {
+    /* .card:not(.highlight-card) {
       max-height: 16px;
       margin: 8px 0;
     }
 
     .card.highlight-card span {
       margin-left: 72px;
-    }
+    } */
 
     .image-container {
       height: 250px;

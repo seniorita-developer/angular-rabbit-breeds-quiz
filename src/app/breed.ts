@@ -1,10 +1,5 @@
   export interface Breed {
-    model: string;
     breed_id: number;
-    fields: Fields;
-  }
-  
-  export interface Fields {
     name: string;
     image: string;
     sizes: string;
@@ -15,3 +10,4 @@
     BRC_recognised: string;
     origins: string;
   }
+  
