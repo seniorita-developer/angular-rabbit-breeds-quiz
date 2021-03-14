@@ -33,8 +33,17 @@ export class QuizComponent implements OnInit {
       this.score = 0;
       this.fluffNotRepeated = [];
       this.generateQuestion();
-
+      if (data) {hideShowElement("spinner", "none")}
+      if (!data) {
+        hideShowElement("random-fluff-image", "none");
+      }
+      else {
+        hideShowElement("random-fluff-image", "block")
+      }
     });
+    function hideShowElement(elementId: string, style: string) {
+      document.getElementById(elementId).style.display = style;
+    }
   }
 
 

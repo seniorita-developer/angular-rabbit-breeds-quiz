@@ -1,6 +1,8 @@
 <div class="quiz-container">
+  
 <div class="image-container">
-    <img src="{{randomFluff.image}}" class="img-fluid" alt="Bunny image">
+  <div id="spinner" class="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+    <img id="random-fluff-image" src="{{randomFluff.image}}" class="img-fluid" alt="Please wait while your bunny is loaded...">
 </div>
 
 <!-- Container for showing options and result -->
@@ -28,9 +30,11 @@
 <ng-template #showResult>
   <div style="flex-direction: column; ">
   <div class="card-container">
-    <div class="message" [ngClass] ="guessed ? 'guessed-right' : 'guessed-wrong'">{{message}}</div>
+    <div class="message" [ngClass] ="guessed ? 'guessed-right' : 'guessed-wrong'"><span>{{message}}</span></div>
   
-      <button *ngIf="counter < 5" class="nextButton" (click)="generateQuestion()">Next question</button>
+      <div class="button-container">
+        <button *ngIf="counter < 5" class="nextButton" (click)="generateQuestion()">Next question</button>
+      </div>
     </div>
     
     <div *ngIf="counter == 5" class="result">
