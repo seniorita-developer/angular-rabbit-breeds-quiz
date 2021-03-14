@@ -1,14 +1,20 @@
-<div>
+<div class="quiz-container">
+  
 <div class="image-container">
-    <img src="{{randomFluff.fields.image}}" class="img-fluid" alt="Responsive image">
+  <div id="spinner" class="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+    <img id="random-fluff-image" src="{{randomFluff.image}}" class="img-fluid" alt="Please wait while your bunny is loaded...">
 </div>
 
-<div *ngIf="!selectedBreedOpt">
-<div class="card-container">  
+<!-- Container for showing options and result -->
+<div class="options-container">
+
+<!-- options and counter -->
+<div *ngIf="!selectedBreedOpt; else showResult">
+<div class="card-container"> 
     <a class="card" *ngFor="let breedOpt of breedOptions" (click)="onSelect(breedOpt)"  rel="noopener">
       
       <p id="icon"><img src="https://img.icons8.com/offices/20/000000/rabbit.png"/></p>   
-      <span>{{breedOpt.fields.name}}</span>    
+      <span>{{breedOpt.name}}</span>    
     </a>
     
 </div>
@@ -17,21 +23,34 @@
   Question {{ counter }} from 5
 </div>
 </div>
+<!-- end of options and counter  -->
+</div>
 
-
-
-<div *ngIf="selectedBreedOpt">
+<!-- Template for showing the result -->
+<ng-template #showResult>
+  <div style="flex-direction: column; ">
   <div class="card-container">
-    <div class="message" [ngClass] ="guessed ? 'guessed-right' : 'guessed-wrong'">{{message}}</div>
+    <div class="message" [ngClass] ="guessed ? 'guessed-right' : 'guessed-wrong'"><span>{{message}}</span></div>
   
-      <button *ngIf="counter < 5" class="nextButton" (click)="generateQuestion()">Next question</button>
+      <div class="button-container">
+        <button *ngIf="counter < 5" class="nextButton" (click)="generateQuestion()">Next question</button>
+      </div>
     </div>
     
-    <div *ngIf="counter == 5">
-      <div class="counter">Your score is {{ score }} of 5!</div>
-      <button class="nextButton" (click)="ngOnInit()">PLAY AGAIN</button>
+    <div *ngIf="counter == 5" class="result">
+      <div class="counter">Your score is {{ score }} out of 5!</div>
+      <div *ngIf="score > 3"class="counter">GREAT JOB!</div>
+      <button class="playAgainButton" (click)="ngOnInit()">PLAY AGAIN</button>
     </div>
+  </div>
+  </ng-template>
 
 </div>
 
-</div>
+
+
+<!-- <div  *ngFor="let breed of breeds"  rel="noopener">
+      <p>{{breed.name}}</p>
+      <p>{{breed.breed_id}}</p>
+  <img src="{{breed.image}}" class="img-fluid" alt="Responsive image"/>   
+</div> -->
